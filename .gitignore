@@ -1,0 +1,6 @@
+*.json
+*/__*
+*-test
+*.csv
+*.json
+*.sh
